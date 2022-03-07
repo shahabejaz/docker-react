@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         I am here!
+         I was changed from feature branch!
         </p>
         <a
           className="App-link"
@@ -23,7 +23,3 @@ function App() {
 }
 
 export default App;
-
-
-
-
